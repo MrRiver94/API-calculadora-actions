@@ -20,5 +20,5 @@ jobs:
         python-version: 3.8
     
     - name: Run tests
-    run:
-      python -m unitted test_suma.py    
+      run:
+        python -m unitted test_suma.py    
