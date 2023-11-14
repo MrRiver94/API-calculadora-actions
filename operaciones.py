@@ -9,7 +9,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
  if b == 0:
-   raise ValueError("No se puede dividir entre 0")
+   raise ValueError("El divisior no puede ser 0")
  
  return a / b
 
